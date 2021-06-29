@@ -95,3 +95,5 @@ eda.ipynb
 .python-version
 .envrc
 
+notebooks/data/faces
+notebooks/faces

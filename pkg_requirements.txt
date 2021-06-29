@@ -19,3 +19,6 @@ ipython==7.0.1
 black
 matplotlib
 torchviz
+torchvision
+scikit-image
+wget
