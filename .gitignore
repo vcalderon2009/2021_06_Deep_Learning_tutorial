@@ -90,3 +90,8 @@ target/
 public
 themes
 eda.ipynb
+
+#  ------ User-define
+.python-version
+.envrc
+
