@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Links and Resources on CA Astro - Data Science and Machine Learning Workshop</title>
-    <link>https://vcalderon2009.github.io/2020_06_CA_Astro_Data_Science_Workshop/links_resources/</link>
-    <description>Recent content in Links and Resources on CA Astro - Data Science and Machine Learning Workshop</description>
+    <title>Links and Resources on Deep Learning con imágenes - Workshop</title>
+    <link>https://vcalderon2009.github.io/2021_06_Deep_Learning_tutorial/links_resources/</link>
+    <description>Recent content in Links and Resources on Deep Learning con imágenes - Workshop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2020 02:54:03 -0500</lastBuildDate>
-    
-	<atom:link href="https://vcalderon2009.github.io/2020_06_CA_Astro_Data_Science_Workshop/links_resources/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 12 Jun 2020 02:54:03 -0500</lastBuildDate><atom:link href="https://vcalderon2009.github.io/2021_06_Deep_Learning_tutorial/links_resources/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

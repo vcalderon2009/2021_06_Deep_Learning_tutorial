@@ -1,41 +1,41 @@
 [
 {
-	"uri": "https://vcalderon2009.github.io/2020_06_CA_Astro_Data_Science_Workshop/instructions/",
+	"uri": "https://vcalderon2009.github.io/2021_06_Deep_Learning_tutorial/instructions/",
 	"title": "Instructions",
 	"tags": [],
 	"description": "",
-	"content": "This set of tutorials are written in Python and they act as stand-alone notebooks. There are 2 ways of accessing them.\nUsing Google\u0026rsquo;s Colab The ideal method of accessing these notebooks and resources is through My Binder or Google Colab.\nYou can simply click on the badge for opening it on MyBinder or Google Colab:\n\n\nJust press on it and it will redirect you to the website dedicated to hosting these notebooks.\nGetting the repository onto your computer The first method of accessing the set of notebooks and resources is by cloning the whole repository into your computer. In that way, you will be able to :\n Install the necessary Python packages Run each notebook on its own and check the results yourself.  For this to work, you will first need to:\n  Clone your repository to specified directory\n  Go to your Documents directory (or any other directory)\n# Let\u0026#39;s go to your Documents folder cd $HOME/Documents   Clone the directory : Keep in mind that you don\u0026rsquo;t have to clone it into Documents, but you can choose any other directory.\ngit clone https://github.com/vcalderon2009/2020_06_CA_Astro_Data_Science_Workshop.git   Go into the directory\ncd ./2020_06_CA_Astro_Data_Science_Workshop   Checkout the master branch\ngit checkout master     Create a new Python environment\n  The next step is to create a new Python environment for the project\nmake create_environment This will create the necessary Python environment for the project. If you have Anaconda installed on your computer, this command will create a new Python environment with the name 2020_06_CA_Astro_Data_Science_Workshop.\n  If using Anaconda, you will have to activate the environment:\nconda activate 2020_06_CA_Astro_Data_Science_Workshop or if you\u0026rsquo;re using venv, you can activate it as:\nworkon 2020_06_CA_Astro_Data_Science_Workshop assuming you have it properly installed.\n  Install the necessary packages\nNow that the Python environment exists, you will need to install the packages into the environment:\nmake requirements     Accessing the notebooks\n  You can finally access the notebooks of the project by:\n# Going into the `notebooks` directory cd notebooks # Start jupyter lab jupyter lab      You can now look through the different notebooks and play around with them!\n "
+	"content": "Los set de tutoriales están escritos en Python y se pueden utilizar de 2 maneras:\nUsing Google\u0026rsquo;s Colab El método ideal para acceder a estos cuadernos y recursos es a través de My Binder or Google Colab.\nSimplemente puede hacer clic en la * insignia * para abrirla en MyBinder or Google Colab:\n\n\nSimplemente presione sobre él y lo redireccionará al sitio web dedicado al alojamiento. estos cuadernos.\nObtener el repositorio en su computadora El primer método para acceder al conjunto de cuadernos y recursos es mediante clonación de todo el repositorio en su computadora. De esa manera, lo harás ser capaz de:\n Instale los paquetes de Python necesarios Ejecute cada cuaderno por sí solo y compruebe los resultados usted mismo.  Para que esto funcione, primero deberá:\n  Clone your repository to specified directory\n  Go to your Documents directory (or any other directory)\n# Let\u0026#39;s go to your Documents folder cd $HOME/Documents   Clone the directory : Keep in mind that you don\u0026rsquo;t have to clone it into Documents, but you can choose any other directory.\ngit clone https://github.com/vcalderon2009/2021_06_Deep_Learning_tutorial.git   Go into the directory\ncd ./2021_06_Deep_Learning_tutorial   Checkout the master branch\ngit checkout master     Create a new Python environment\n  The next step is to create a new Python environment for the project\nmake create_environment This will create the necessary Python environment for the project. If you have Anaconda installed on your computer, this command will create a new Python environment with the name 2021_06_Deep_Learning_tutorial.\n  If using Anaconda, you will have to activate the environment:\nconda activate 2021_06_Deep_Learning_tutorial or if you\u0026rsquo;re using venv, you can activate it as:\nworkon 2021_06_Deep_Learning_tutorial assuming you have it properly installed.\n  Install the necessary packages\nNow that the Python environment exists, you will need to install the packages into the environment:\nmake requirements     Accessing the notebooks\n  You can finally access the notebooks of the project by:\n# Going into the `notebooks` directory cd notebooks # Start jupyter lab jupyter lab      You can now look through the different notebooks and play around with them!\n "
 },
 {
-	"uri": "https://vcalderon2009.github.io/2020_06_CA_Astro_Data_Science_Workshop/notebooks/",
+	"uri": "https://vcalderon2009.github.io/2021_06_Deep_Learning_tutorial/notebooks/",
 	"title": "Notebooks",
 	"tags": [],
 	"description": "",
-	"content": "The following is the set of notebooks dedicated to this workshop:\n    Name Description Link     1 Introduction Intro the course Link   2 Pandas Review Review of Pandas and other functions Link   3 Exploratory Data Analysis How to dissect a dataset and more Link   4 Intro to Machine Learning Intro ML concepts and algorithms Link   5 Supervised Learning ML Project Example Link    Set set of notebooks can be accessed through here: \n"
+	"content": "La siguiente lista corresponde al set de notebooks de este taller:\n    Nombre Descripción Link     1 Introducción a Pytorch Intro a Pytorch Link   2 Pandas Review Review of Pandas and other functions Link    Los diferentes notebooks se pueden accessar por acá: \n"
 },
 {
-	"uri": "https://vcalderon2009.github.io/2020_06_CA_Astro_Data_Science_Workshop/links_resources/",
+	"uri": "https://vcalderon2009.github.io/2021_06_Deep_Learning_tutorial/links_resources/",
 	"title": "Links and Resources",
 	"tags": [],
 	"description": "",
-	"content": "The following are a set of useful links and resources that may come handy when dealing with data and trying to build ML models.\nPython packages ML-related Other useful resources   Vandy - Useful links and resources : Compilation of multiple sources and links that include:\n Reading papers Giving presentations Paper Management Collaborations Conferences General Learning Python- and Anaconda-related Code Editors Version Control SSH Keys LaTeX Data Science Machine Learning Papers Books Applying to Jobs and more and more \u0026hellip;    "
+	"content": "El siguiente es un set de links que se pueden usar para este taller, y para otros propósitos referentes a Deep Learning y Machine Learning.\nPython packages ML-related Other useful resources   Vandy - Useful links and resources : Compilation of multiple sources and links that include:\n Reading papers Giving presentations Paper Management Collaborations Conferences General Learning Python- and Anaconda-related Code Editors Version Control SSH Keys LaTeX Data Science Machine Learning Papers Books Applying to Jobs and more and more \u0026hellip;    "
 },
 {
-	"uri": "https://vcalderon2009.github.io/2020_06_CA_Astro_Data_Science_Workshop/",
-	"title": "CA Astro - Data Science and Machine Learning Workshop",
+	"uri": "https://vcalderon2009.github.io/2021_06_Deep_Learning_tutorial/",
+	"title": "Deep Learning con imagenes",
 	"tags": [],
 	"description": "",
-	"content": "CA Astro - Data Science and ML Workshop This set of tutorials can be best explained as:\nTutorials and notebooks dedicated towards teaching about Data Science and Machine Learning  Main Details          Author Victor Calderon - http://vcalderon.me   Dates 13th and 14th of June, 2020   Github Repo https://github.com/vcalderon2009/2020_06_CA_Astro_Data_Science_Workshop/   Documentation https://vcalderon2009.github.io/2020_06_CA_Astro_Data_Science_Workshop/    https://mybinder.org/v2/gh/vcalderon2009/2020_06_CA_Astro_Data_Science_Workshop/master    https://colab.research.google.com/github/vcalderon2009/2020_06_CA_Astro_Data_Science_Workshop/    Description The following set of tutorials form part of the Tutorials Series hosted by \u0026ldquo;Central American - Caribbean Bridge in Astrophysics Program\u0026rdquo;.\nIn these tutorials, we will cover how to:\n Extract datasets Perform exploratory data analysis (EDA) of the datasets. This includes  Extract summary statistics about the dataset Clean the datasets Transform columns to useful features   Define and train a machine learning (ML) model using out-of-the-box utilities from Python packages. Determine the performance of the ML model  We will also discuss some common practices when dealing with ML models, as EDA best practices.\n"
+	"content": "Deep Learning con Imágines Este set de tutoriales incluye notebooks y discusiones sobre la aplicación de Deep Learning con imágenes.\nDetalles          Author Victor Calderon - http://vcalderon.me   Fechas Junio 28 - Julio 2, 2021   Github Repo https://github.com/vcalderon2009/2021_06_Deep_Learning_tutorial/   Documentation https://vcalderon2009.github.io/2021_06_Deep_Learning_tutorial/    https://mybinder.org/v2/gh/vcalderon2009/2021_06_Deep_Learning_tutorial/master    https://colab.research.google.com/github/vcalderon2009/2021_06_Deep_Learning_tutorial/    Descripción El siguiente set de tutoriales forma parte de la 2da semana de cursos del Instituto Konrad Lorenz.\nEn estos tutoriales, se cubrirán los siguientes temas:\n Introducción a Pytorch Como crear un model de Deep Learning orientado a imágines  La estructura de un modelo y como \u0026ldquo;entrenar\u0026rdquo; un modelo Conceptos y estructuras de Pytorch que se usan dentro de un modelo.   Introducción a segmentation de imágenes. Introducción a Transfer Learning.  También se discutirán prácticas comunes de como lidiar con modelos de Deep Learning, y sobre mejor prácticas para estructurar la data.\n"
 },
 {
-	"uri": "https://vcalderon2009.github.io/2020_06_CA_Astro_Data_Science_Workshop/categories/",
+	"uri": "https://vcalderon2009.github.io/2021_06_Deep_Learning_tutorial/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://vcalderon2009.github.io/2020_06_CA_Astro_Data_Science_Workshop/tags/",
+	"uri": "https://vcalderon2009.github.io/2021_06_Deep_Learning_tutorial/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",
