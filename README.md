@@ -1,35 +1,35 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vcalderon2009/2020_06_CA_Astro_Data_Science_Workshop/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vcalderon2009/2021_06_Deep_Learning_tutorial/master)
 
-CA Astro - Data Science and Machine Learning Workshop
+
+
+2021 Deep Learning with Images
 ==============================
 
-    Tutorials and notebooks dedicated towards teaching about Data Science and Machine Learning
+    Tutoriales y notebooks dedicados al aprendizaje de Deep Learning e imágenes.
 
 | | |
 |---------------|---------------------------------------------------|
 | __Author__    | Victor Calderon [[homepage](http://vcalderon.me)] |
-| __Dates__     | 13th and 14th of June, 2020                       |
+| __Dates__     | June 28 - July 2, 2021                            |
 | Documentation | Link |
 
 
 ## Description
 
-The following set of tutorials form part of the "Tutorials Series" hosted by
-"[Central American - Caribbean Bridge in Astrophysics Program](https://cencabridgeastro.weebly.com/)".
+El siguiente set de tutoriales forma parte de la 2da semana de cursos del
+[Instituto Konrad Lorenz](https://la.konradlorenz.edu.co).
 
-In these tutorials, we will cover how to:
+En estos tutoriales, se cubrirán los siguientes temas:
 
-- Extract datasets
-- Perform exploratory data analysis (EDA) of the datasets. This includes
-    1. Extract summary statistics about the dataset
-    2. Clean the datasets
-    3. Transform columns to useful *features*
-- Define and *train* a machine learning (ML) model using out-of-the-box utilities from Python packages.
-- Determine the performance of the ML model
+- Introducción a [Pytorch](https://pytorch.org/)
+- Como crear un model de Deep Learning orientado a imágines
+    1. La estructura de un modelo y como "entrenar" un modelo
+    2. Conceptos y estructuras de Pytorch que se usan dentro de un modelo.
+- Introducción a *segmentation de imágenes*.
+- Introducción a *Transfer Learning*.
 
-We will also discuss some common practices when dealing with ML models, as EDA best practices.
-
-
+También se discutirán prácticas comunes de como lidiar con modelos de Deep
+Learning, y sobre mejor prácticas para estructurar la data.
 
 Project Organization
 ------------
