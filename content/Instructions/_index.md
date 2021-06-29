@@ -7,35 +7,35 @@ chapter : false
 weight : 1
 ---
 
-This set of tutorials are written in [Python](https://www.python.org/)
-and they act as *stand-alone* notebooks. There are 2 ways of accessing them.
+Los set de tutoriales están escritos en [Python](https://www.python.org/)
+y se pueden utilizar de 2 maneras:
 
 ### Using Google's Colab
 
-The ideal method of accessing these notebooks and resources is through
+El método ideal para acceder a estos cuadernos y recursos es a través de
 [My Binder](https://mybinder.org/) or 
 [Google Colab](https://colab.research.google.com/).
 
-You can simply click on the *badge* for opening it on **MyBinder** or
+Simplemente puede hacer clic en la * insignia * para abrirla en **MyBinder** or
 **Google Colab**:
 
 [![Binder](https://mybinder.org/badge_logo.svg)]({{%siteparam "mybinder_repo_url"%}})
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]({{%siteparam "google_colab_repo_url"%}})
 
-Just press on it and it will redirect you to the website dedicated to hosting
-these notebooks.
+Simplemente presione sobre él y lo redireccionará al sitio web dedicado al alojamiento.
+estos cuadernos.
 
-### Getting the repository onto your computer
+### Obtener el repositorio en su computadora
 
-The first method of accessing the set of notebooks and resources is by
-*cloning* the whole repository into your computer. In that way, you will
-be able to :
+El primer método para acceder al conjunto de cuadernos y recursos es mediante
+*clonación* de todo el repositorio en su computadora. De esa manera, lo harás
+ser capaz de:
 
-- Install the necessary Python packages
-- Run each notebook on its own and check the results yourself.
+- Instale los paquetes de Python necesarios
+- Ejecute cada cuaderno por sí solo y compruebe los resultados usted mismo.
 
-For this to work, you will first need to:
+Para que esto funcione, primero deberá:
 
 1. ***Clone your repository to specified directory***
 
@@ -50,13 +50,13 @@ For this to work, you will first need to:
       into `Documents`, but you can choose *any* other directory.
 
         ```bash
-        git clone https://github.com/vcalderon2009/2020_06_CA_Astro_Data_Science_Workshop.git
+        git clone https://github.com/vcalderon2009/2021_06_Deep_Learning_tutorial.git
         ```
 
     - Go into the directory
 
         ```bash
-        cd ./2020_06_CA_Astro_Data_Science_Workshop
+        cd ./2021_06_Deep_Learning_tutorial
         ```
 
     - Checkout the `master` branch
@@ -76,19 +76,19 @@ For this to work, you will first need to:
         This will create the necessary Python environment for the project.
         If you have [Anaconda](https://www.anaconda.com/) installed on your
         computer, this command will create a new Python environment with
-        the name `2020_06_CA_Astro_Data_Science_Workshop`.
+        the name `2021_06_Deep_Learning_tutorial`.
 
     - If using *Anaconda*, you will have to activate the environment:
 
         ```bash
-        conda activate 2020_06_CA_Astro_Data_Science_Workshop
+        conda activate 2021_06_Deep_Learning_tutorial
         ```
 
         or if you're using [venv](https://docs.python.org/3/library/venv.html),
         you can activate it as:
 
         ```bash
-        workon 2020_06_CA_Astro_Data_Science_Workshop
+        workon 2021_06_Deep_Learning_tutorial
         ```
 
         assuming you have it properly installed.

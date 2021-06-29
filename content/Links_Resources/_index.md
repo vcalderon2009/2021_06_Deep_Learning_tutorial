@@ -7,8 +7,8 @@ chapter : false
 weight : 3
 ---
 
-The following are a set of useful links and resources that may come handy
-when dealing with data and trying to build ML models.
+El siguiente es un set de links que se pueden usar para este taller, y
+para otros propósitos referentes a Deep Learning y Machine Learning.
 
 ### Python packages
 

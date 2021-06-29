@@ -4,3 +4,5 @@ data
 *egg-info
 .DS_Store
 notebooks
+.envrc
+.python-version

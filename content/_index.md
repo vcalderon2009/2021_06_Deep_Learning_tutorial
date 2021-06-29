@@ -1,42 +1,40 @@
 ---
-title: "CA Astro - Data Science and Machine Learning Workshop"
+title: "Deep Learning con imagenes"
 date: 2020-06-12T02:55:22-05:00
 draft: false
 chapter : false
 ---
 
-# CA Astro - Data Science and ML Workshop
+# Deep Learning con Imágines
 
-This set of tutorials can be best explained as:
+Este set de tutoriales incluye notebooks y discusiones sobre la aplicación
+de Deep Learning con imágenes.
 
-    Tutorials and notebooks dedicated towards teaching about Data Science and Machine Learning
-
-## Main Details
+## Detalles
 
 | | |
 |---------------|---------------------------------------------------|
 | **Author**    | Victor Calderon - {{%siteparam "personal_website"%}} |
-| **Dates**     | 13th and 14th of June, 2020                       |
+| **Fechas**    | Junio 28 - Julio 2, 2021                       |
 | **Github Repo** | {{%siteparam "github_repo_url"%}} |
 | **Documentation** | {{%siteparam "docs_url"%}} |
 | [![Binder](https://mybinder.org/badge_logo.svg)]({{%siteparam "mybinder_repo_url"%}}) | {{%siteparam "mybinder_repo_url"%}} |
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]({{%siteparam "google_colab_repo_url"%}}) | {{%siteparam "google_colab_repo_url"%}} |
 
 
-## Description
+## Descripción
 
-The following set of tutorials form part of the **Tutorials Series** hosted
-by "[Central American - Caribbean Bridge in Astrophysics Program](https://cencabridgeastro.weebly.com/)".
+El siguiente set de tutoriales forma parte de la 2da semana de cursos del
+[Instituto Konrad Lorenz](https://la.konradlorenz.edu.co).
 
-In these tutorials, we will cover how to:
+En estos tutoriales, se cubrirán los siguientes temas:
 
-- Extract datasets
-- Perform exploratory data analysis (EDA) of the datasets. This includes
-    1. Extract summary statistics about the dataset
-    2. Clean the datasets
-    3. Transform columns to useful *features*
-- Define and *train* a machine learning (ML) model using out-of-the-box utilities from Python packages.
-- Determine the performance of the ML model
+- Introducción a [Pytorch](https://pytorch.org/)
+- Como crear un model de Deep Learning orientado a imágines
+    1. La estructura de un modelo y como "entrenar" un modelo
+    2. Conceptos y estructuras de Pytorch que se usan dentro de un modelo.
+- Introducción a *segmentation de imágenes*.
+- Introducción a *Transfer Learning*.
 
-We will also discuss some common practices when dealing with ML models, as EDA best practices.
-
+También se discutirán prácticas comunes de como lidiar con modelos de Deep
+Learning, y sobre mejor prácticas para estructurar la data.
