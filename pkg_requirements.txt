@@ -22,3 +22,5 @@ torchviz
 torchvision
 scikit-image
 wget
+cython
+pycocotools
