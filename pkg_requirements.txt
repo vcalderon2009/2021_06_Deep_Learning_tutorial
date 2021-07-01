@@ -15,7 +15,6 @@ jupyterlab
 ipython
 nb-black
 torch==1.8.1
-ipython==7.0.1
 black
 matplotlib
 torchviz
