@@ -14,7 +14,7 @@ seaborn
 jupyterlab
 ipython
 nb-black
-torch==1.8.1
+torch
 black
 matplotlib
 torchviz
