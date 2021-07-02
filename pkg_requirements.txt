@@ -23,3 +23,6 @@ scikit-image
 wget
 cython
 pycocotools
+open3d
+trimesh
+plotly
