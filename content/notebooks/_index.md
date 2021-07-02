@@ -17,6 +17,7 @@ La siguiente lista corresponde al set de notebooks de este taller:
 | 3 | Entrenando modelos             |  | [Link](https://github.com/vcalderon2009/2021_06_Deep_Learning_tutorial/blob/master/notebooks/003-Entrenando-Modelos.ipynb)             |
 | 4 | Detección de Objectos             |  | [Link](https://github.com/vcalderon2009/2021_06_Deep_Learning_tutorial/blob/master/notebooks/004-Deteccion-de-Objetos.ipynb)             |
 | 5 | Transfer Learning             |  | [Link](https://github.com/vcalderon2009/2021_06_Deep_Learning_tutorial/blob/master/notebooks/005-Transfer-Learning.ipynb)             |
+| 6 | Deep Learning en 3D             |  | [Link](https://github.com/vcalderon2009/2021_06_Deep_Learning_tutorial/blob/master/notebooks/006-Pytorch-en-3D.ipynb)             |
 
 Los diferentes notebooks se pueden accessar por acá:
 [![Binder](https://mybinder.org/badge_logo.svg)]({{%siteparam "mybinder_repo_url"%}})
